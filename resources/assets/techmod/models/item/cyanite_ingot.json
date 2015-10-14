@@ -1,0 +1,6 @@
+{
+    "parent":"techmod:item/standard_item",
+    "textures": {
+        "layer0":"techmod:items/cyanite_ingot"
+    }
+}
